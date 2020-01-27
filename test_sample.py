@@ -8,7 +8,7 @@ def test_one():
     assert intToRoman(125) == "CXXV"
     assert intToRoman(399) == "CCCXCIX"
     assert intToRoman(678) == "DCLXXVIII"
-    assert intToRoman(1997) == "MCMXCVI"
+    assert intToRoman(1997) == "MCMXCVII"
     assert intToRoman(2020) == "MMXX"
 
 def test_two():
