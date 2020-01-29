@@ -16,3 +16,6 @@ def test_two():
     assert intToRoman(-2) == 0
     assert intToRoman(-3) == 0
     assert intToRoman(-50) == 0
+    assert intToRoman(4000) == 0
+    assert intToRoman(234422) == 0
+    assert intToRoman(445223) == 2
